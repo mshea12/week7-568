@@ -1,0 +1,24 @@
+﻿Date,Aedes,Aedes,Aedes,Aedes,Aedes,Aedes,Aedes,Aedes,Aedes,Aedes,Aedes,Aedes,Aedes,Aedes,Anopheles,Anopheles,Anopheles,Anopheles,Anopheles,Coquillettidia,Culex,Culex,Culex,Culex,Culex,Culex,Culiseta,Culiseta,Culiseta,Culiseta,Culiseta,Culiseta,Orthopodomyia,Other,Psorophora,Uranotaenia
+,Aedes albopictus,Aedes c. canadensis,Aedes cantator,Aedes cinereus,Aedes dupreei,Aedes j. japonicus,Aedes provocans,Aedes sollicitans,Aedes sticticus,Aedes stimulans,Aedes taeniorhynchus,Aedes triseriatus,Aedes trivittatus,Aedes vexans,Anopheles crucians complex,Anopheles punctipennis,Anopheles quadrimaculatus s.l.,Anopheles quadrimaculatus s.s.,Anopheles walkeri,Coquillettidia perturbans,Culex pipiens,Culex pipiens-restuans (Mixed),Culex restuans,Culex salinarius,Culex sp.,Culex territans,Culiseta impatiens,Culiseta inornata,Culiseta melanura,Culiseta minnesotae,Culiseta morsitans,Culiseta sp.,Orthopodomyia signifera,Other Species / Unknown,Psorophora ferox,Uranotaenia sapphirina
+2000,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,5,0,5,2,2,0,0,0,3,0,0,0,0,0,0,0
+2001,0,3,1,1,0,1,0,1,0,0,1,1,0,1,0,2,2,0,0,2,20,2,6,6,12,0,0,0,8,0,0,1,1,0,0,1
+2002,0,0,0,0,0,2,0,1,0,0,0,1,1,6,0,1,0,0,1,1,79,30,18,3,41,0,0,0,2,0,0,0,0,0,0,1
+2003,0,2,0,3,0,0,0,0,2,0,0,0,1,4,0,0,0,0,1,1,37,4,13,14,27,0,1,0,37,0,8,0,0,0,2,1
+2004,0,5,0,0,1,0,0,0,0,0,0,1,1,5,0,0,1,0,0,0,38,14,10,5,2,3,2,0,38,0,8,0,0,0,0,0
+2005,0,0,0,1,0,3,0,0,0,0,0,2,0,2,0,0,0,0,0,3,43,68,3,7,5,0,0,0,51,0,10,0,0,0,0,0
+2006,0,3,0,0,0,0,0,0,0,0,0,2,0,6,0,0,0,0,0,13,192,28,19,16,5,0,0,0,182,1,7,0,0,0,1,0
+2007,0,2,0,1,0,2,0,0,0,0,1,0,0,1,0,0,0,0,0,2,69,63,1,1,0,0,0,0,37,0,1,0,0,0,0,0
+2008,0,3,0,1,0,2,0,0,0,1,0,1,1,1,0,0,0,0,0,1,132,129,48,11,0,1,0,1,25,0,3,0,0,0,0,0
+2009,0,21,1,6,0,0,0,0,0,1,0,1,2,5,0,4,2,0,2,10,34,16,4,6,4,0,0,0,177,0,25,0,0,0,1,4
+2010,0,1,0,0,0,4,0,0,0,0,1,1,0,3,0,0,0,0,0,22,185,92,25,15,12,0,0,0,59,0,3,0,0,0,0,1
+2011,0,6,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0,0,0,11,117,232,28,14,27,0,0,0,95,0,1,1,0,0,0,0
+2012,0,16,1,1,0,1,0,0,0,0,0,1,0,11,0,0,0,0,0,75,201,245,20,26,71,3,0,0,223,0,1,0,0,0,0,0
+2013,0,6,0,0,0,0,0,1,0,0,2,0,1,10,0,0,0,0,0,30,68,225,35,11,19,0,0,0,252,0,8,4,0,0,1,0
+2014,0,5,0,1,0,1,0,0,0,0,0,1,1,5,0,0,0,0,0,10,53,54,10,6,5,0,0,0,57,0,4,0,0,0,2,1
+2015,0,1,0,0,0,6,0,0,0,0,1,1,3,3,0,1,0,0,0,1,113,226,17,28,4,0,0,0,17,0,2,0,0,0,0,0
+2016,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,109,19,7,1,2,0,0,0,2,0,1,0,0,0,0,0
+2017,0,4,0,2,0,1,0,0,0,0,1,0,0,1,1,4,1,0,0,12,90,294,23,23,26,2,0,0,28,0,4,0,0,7,1,0
+2018,1,11,1,10,0,23,1,0,0,0,1,1,2,4,0,2,1,2,0,20,255,473,71,38,163,0,0,0,104,0,7,0,0,0,2,0
+2019,0,33,0,2,0,2,0,0,0,0,0,0,0,14,1,5,1,0,1,162,53,51,12,62,17,0,0,0,327,0,2,0,0,0,4,7
+2020,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,46,128,84,17,8,0,0,0,0,26,0,0,0,0,0,0,0
+2021,0,2,0,6,0,1,0,0,0,0,0,0,2,6,0,0,0,0,0,2,125,105,58,22,4,0,0,0,18,0,0,0,0,0,9,1
